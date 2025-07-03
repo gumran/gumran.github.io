@@ -62,6 +62,7 @@ i {
 #about h2,
 #research h2 {
     border-bottom: 1px solid #777;
+    margin-bottom: 0.5rem;
 }
 
 #research h3 img {
